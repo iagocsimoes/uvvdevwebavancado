@@ -1,3 +1,1 @@
-npm init -y
-npm i typescript
-npx tsc --init
+Projeto de desenvolvimento web avancado da Turma CC5M na faculdade UVV
